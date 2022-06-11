@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Yang Hyeonseo from South Korea
+I am Yang Hyeonseo from South Korea.  
 *hi
 asdf
 
